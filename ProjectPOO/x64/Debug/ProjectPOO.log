@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+C:\Users\loicm\Desktop\Prosits\A2\Bloc POO\Projet POO\code2\ProjectPOO\ProjectPOO\Forms2.h(341,22): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+  Adresse_Gestion.obj : module MSIL détecté ; liens incrémentiels désactivés pour MSIL ; édition de liens complète en cours
+  ProjectPOO.vcxproj -> C:\Users\loicm\Desktop\Prosits\A2\Bloc POO\Projet POO\code2\ProjectPOO\x64\Debug\ProjectPOO.exe

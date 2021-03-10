@@ -1,0 +1,86 @@
+C:\Users\Cancer\Documents\Cesi\CPP\ProjectPOO\ProjectPOO\x64\Debug\ProjectPOO.vcxprojAssemblyReference.cache
+C:\Users\Cancer\Documents\Cesi\CPP\ProjectPOO\ProjectPOO\x64\Debug\ProjectPOO.MyForm.resources
+C:\Users\Cancer\Documents\Cesi\CPP\ProjectPOO\ProjectPOO\x64\Debug\ProjectPOO.vcxproj.GenerateResource.cache
+C:\Users\loicm\Desktop\ProjectPOO\ProjectPOO\x64\Debug\ProjectPOO.vcxprojAssemblyReference.cache
+C:\Users\loicm\Desktop\ProjectPOO\ProjectPOO\x64\Debug\ProjectPOO.MyForm.resources
+C:\Users\loicm\Desktop\ProjectPOO\ProjectPOO\x64\Debug\ProjectPOO.vcxproj.GenerateResource.cache
+C:\Users\Cancer\Documents\Cesi\CPP\ProjectPOO\ProjectPOO\x64\Debug\ProjectPOO.Panier.resources
+C:\Users\loicm\Desktop\Prosits\A2\Bloc POO\Projet POO\code\ProjectPOO\x64\Debug\ProjectPOO.pdb
+C:\Users\loicm\Desktop\Prosits\A2\Bloc POO\Projet POO\code\ProjectPOO\ProjectPOO\x64\Debug\ProjectPOO.vcxprojAssemblyReference.cache
+C:\Users\loicm\Desktop\Prosits\A2\Bloc POO\Projet POO\code\ProjectPOO\ProjectPOO\x64\Debug\ProjectPOO.MyForm.resources
+C:\Users\loicm\Desktop\Prosits\A2\Bloc POO\Projet POO\code\ProjectPOO\ProjectPOO\x64\Debug\ProjectPOO.Panier.resources
+C:\Users\loicm\Desktop\Prosits\A2\Bloc POO\Projet POO\code\ProjectPOO\ProjectPOO\x64\Debug\ProjectPOO.vcxproj.GenerateResource.cache
+C:\Users\loicm\Desktop\Prosits\A2\Bloc POO\Projet POO\code\ProjectPOO\ProjectPOO\x64\Debug\ProjectPOO.exe
+C:\Users\loicm\Desktop\Prosits\A2\Bloc POO\Projet POO\code\ProjectPOO\ProjectPOO\x64\Debug\ProjectPOO.pdb
+C:\Users\loicm\Desktop\Prosits\A2\Bloc POO\Projet POO\code\ProjectPOO\ProjectPOO\x64\Debug\ProjectPOO.Forms2.resources
+C:\Users\loicm\Desktop\Prosits\A2\Bloc POO\Projet POO\code\ProjectPOO\ProjectPOO\x64\Debug\ProjectPOO.Personnel_form.resources
+C:\Users\Cancer\Documents\Cesi\CPP\ProjectPOO\x64\Debug\ProjectPOO.pdb
+C:\Users\Cancer\Documents\Cesi\CPP\ProjectPOO\ProjectPOO\x64\Debug\ProjectPOO.Forms2.resources
+C:\Users\Cancer\Documents\Cesi\CPP\ProjectPOO\ProjectPOO\x64\Debug\ProjectPOO.Personnel_form.resources
+C:\Users\Cancer\Documents\Cesi\CPP\ProjectPOO\ProjectPOO\x64\Debug\ProjectPOO.exe
+C:\Users\Cancer\Documents\Cesi\CPP\ProjectPOO\ProjectPOO\x64\Debug\ProjectPOO.pdb
+C:\Users\Cancer\Documents\Cesi\CPP\ProjectPOO\ProjectPOO\x64\Debug\ProjectPOO.Stock_forms.resources
+C:\Users\loicm\Desktop\ProjectPOO\x64\Debug\ProjectPOO.pdb
+C:\Users\loicm\Desktop\ProjectPOO\ProjectPOO\x64\Debug\ProjectPOO.Forms2.resources
+C:\Users\loicm\Desktop\ProjectPOO\ProjectPOO\x64\Debug\ProjectPOO.Panier.resources
+C:\Users\loicm\Desktop\ProjectPOO\ProjectPOO\x64\Debug\ProjectPOO.Personnel_form.resources
+C:\Users\loicm\Desktop\ProjectPOO\ProjectPOO\x64\Debug\ProjectPOO.Stock_forms.resources
+C:\Users\loicm\Desktop\ProjectPOO\ProjectPOO\x64\Debug\ProjectPOO.exe
+C:\Users\loicm\Desktop\ProjectPOO\ProjectPOO\x64\Debug\ProjectPOO.pdb
+C:\Users\Cancer\Desktop\ProjectPOO\x64\Debug\ProjectPOO.pdb
+C:\Users\Cancer\Desktop\ProjectPOO\ProjectPOO\x64\Debug\ProjectPOO.vcxprojAssemblyReference.cache
+C:\Users\Cancer\Desktop\ProjectPOO\ProjectPOO\x64\Debug\ProjectPOO.Forms2.resources
+C:\Users\Cancer\Desktop\ProjectPOO\ProjectPOO\x64\Debug\ProjectPOO.MyForm.resources
+C:\Users\Cancer\Desktop\ProjectPOO\ProjectPOO\x64\Debug\ProjectPOO.Panier.resources
+C:\Users\Cancer\Desktop\ProjectPOO\ProjectPOO\x64\Debug\ProjectPOO.Personnel_form.resources
+C:\Users\Cancer\Desktop\ProjectPOO\ProjectPOO\x64\Debug\ProjectPOO.Stock_forms.resources
+C:\Users\Cancer\Desktop\ProjectPOO\ProjectPOO\x64\Debug\ProjectPOO.vcxproj.GenerateResource.cache
+C:\Users\Cancer\Desktop\ProjectPOO\ProjectPOO\x64\Debug\ProjectPOO.exe
+C:\Users\Cancer\Desktop\ProjectPOO\ProjectPOO\x64\Debug\ProjectPOO.pdb
+C:\Users\loicm\Desktop\Prosits\A2\Bloc POO\Projet POO\code\ProjectPOO\ProjectPOO\x64\Debug\ProjectPOO.Stock_forms.resources
+C:\Users\Cancer\Desktop\JavaProject\ProjectPOO\x64\Debug\ProjectPOO.pdb
+C:\Users\Cancer\Desktop\JavaProject\ProjectPOO\ProjectPOO\x64\Debug\ProjectPOO.vcxprojAssemblyReference.cache
+C:\Users\Cancer\Desktop\JavaProject\ProjectPOO\ProjectPOO\x64\Debug\ProjectPOO.Forms2.resources
+C:\Users\Cancer\Desktop\JavaProject\ProjectPOO\ProjectPOO\x64\Debug\ProjectPOO.MyForm.resources
+C:\Users\Cancer\Desktop\JavaProject\ProjectPOO\ProjectPOO\x64\Debug\ProjectPOO.Panier.resources
+C:\Users\Cancer\Desktop\JavaProject\ProjectPOO\ProjectPOO\x64\Debug\ProjectPOO.Personnel_form.resources
+C:\Users\Cancer\Desktop\JavaProject\ProjectPOO\ProjectPOO\x64\Debug\ProjectPOO.Stock_forms.resources
+C:\Users\Cancer\Desktop\JavaProject\ProjectPOO\ProjectPOO\x64\Debug\ProjectPOO.vcxproj.GenerateResource.cache
+C:\Users\Cancer\Desktop\JavaProject\ProjectPOO\ProjectPOO\x64\Debug\ProjectPOO.exe
+C:\Users\Cancer\Desktop\JavaProject\ProjectPOO\ProjectPOO\x64\Debug\ProjectPOO.pdb
+C:\Users\Cancer\Desktop\ProjectPOO\ProjectPOO\x64\Debug\ProjectPOO.Commande_Forms.resources
+C:\Users\loicm\Desktop\ProjectPOO\ProjectPOO\x64\Debug\ProjectPOO.Commande_Forms.resources
+C:\Users\loicm\Desktop\Prosits\A2\Bloc POO\Projet POO\code\ProjectPOO\ProjectPOO\x64\Debug\ProjectPOO.Commande_Forms.resources
+C:\Users\Cancer\Documents\Cesi\POO\ProjectPOO\x64\Debug\ProjectPOO.pdb
+C:\Users\Cancer\Documents\Cesi\POO\ProjectPOO\ProjectPOO\x64\Debug\ProjectPOO.vcxprojAssemblyReference.cache
+C:\Users\Cancer\Documents\Cesi\POO\ProjectPOO\ProjectPOO\x64\Debug\ProjectPOO.Commande_Forms.resources
+C:\Users\Cancer\Documents\Cesi\POO\ProjectPOO\ProjectPOO\x64\Debug\ProjectPOO.Forms2.resources
+C:\Users\Cancer\Documents\Cesi\POO\ProjectPOO\ProjectPOO\x64\Debug\ProjectPOO.MyForm.resources
+C:\Users\Cancer\Documents\Cesi\POO\ProjectPOO\ProjectPOO\x64\Debug\ProjectPOO.Panier.resources
+C:\Users\Cancer\Documents\Cesi\POO\ProjectPOO\ProjectPOO\x64\Debug\ProjectPOO.Personnel_form.resources
+C:\Users\Cancer\Documents\Cesi\POO\ProjectPOO\ProjectPOO\x64\Debug\ProjectPOO.Stock_forms.resources
+C:\Users\Cancer\Documents\Cesi\POO\ProjectPOO\ProjectPOO\x64\Debug\ProjectPOO.vcxproj.GenerateResource.cache
+C:\Users\Cancer\Documents\Cesi\POO\ProjectPOO\ProjectPOO\x64\Debug\ProjectPOO.exe
+C:\Users\Cancer\Documents\Cesi\POO\ProjectPOO\ProjectPOO\x64\Debug\ProjectPOO.pdb
+C:\Users\jorda\OneDrive\Bureau\ProjetCPP\Code\ProjectPOO\x64\Debug\ProjectPOO.pdb
+C:\Users\jorda\OneDrive\Bureau\ProjetCPP\Code\ProjectPOO\ProjectPOO\x64\Debug\ProjectPOO.vcxprojAssemblyReference.cache
+C:\Users\jorda\OneDrive\Bureau\ProjetCPP\Code\ProjectPOO\ProjectPOO\x64\Debug\ProjectPOO.Commande_Forms.resources
+C:\Users\jorda\OneDrive\Bureau\ProjetCPP\Code\ProjectPOO\ProjectPOO\x64\Debug\ProjectPOO.Forms2.resources
+C:\Users\jorda\OneDrive\Bureau\ProjetCPP\Code\ProjectPOO\ProjectPOO\x64\Debug\ProjectPOO.MyForm.resources
+C:\Users\jorda\OneDrive\Bureau\ProjetCPP\Code\ProjectPOO\ProjectPOO\x64\Debug\ProjectPOO.Panier.resources
+C:\Users\jorda\OneDrive\Bureau\ProjetCPP\Code\ProjectPOO\ProjectPOO\x64\Debug\ProjectPOO.Personnel_form.resources
+C:\Users\jorda\OneDrive\Bureau\ProjetCPP\Code\ProjectPOO\ProjectPOO\x64\Debug\ProjectPOO.Stock_forms.resources
+C:\Users\jorda\OneDrive\Bureau\ProjetCPP\Code\ProjectPOO\ProjectPOO\x64\Debug\ProjectPOO.vcxproj.GenerateResource.cache
+C:\Users\jorda\OneDrive\Bureau\ProjetCPP\Code\ProjectPOO\ProjectPOO\x64\Debug\ProjectPOO.exe
+C:\Users\jorda\OneDrive\Bureau\ProjetCPP\Code\ProjectPOO\ProjectPOO\x64\Debug\ProjectPOO.pdb
+C:\Users\loicm\Desktop\Prosits\A2\Bloc POO\Projet POO\code2\ProjectPOO\x64\Debug\ProjectPOO.pdb
+C:\Users\loicm\Desktop\Prosits\A2\Bloc POO\Projet POO\code2\ProjectPOO\ProjectPOO\x64\Debug\ProjectPOO.vcxprojAssemblyReference.cache
+C:\Users\loicm\Desktop\Prosits\A2\Bloc POO\Projet POO\code2\ProjectPOO\ProjectPOO\x64\Debug\ProjectPOO.Commande_Forms.resources
+C:\Users\loicm\Desktop\Prosits\A2\Bloc POO\Projet POO\code2\ProjectPOO\ProjectPOO\x64\Debug\ProjectPOO.Forms2.resources
+C:\Users\loicm\Desktop\Prosits\A2\Bloc POO\Projet POO\code2\ProjectPOO\ProjectPOO\x64\Debug\ProjectPOO.MyForm.resources
+C:\Users\loicm\Desktop\Prosits\A2\Bloc POO\Projet POO\code2\ProjectPOO\ProjectPOO\x64\Debug\ProjectPOO.Panier.resources
+C:\Users\loicm\Desktop\Prosits\A2\Bloc POO\Projet POO\code2\ProjectPOO\ProjectPOO\x64\Debug\ProjectPOO.Personnel_form.resources
+C:\Users\loicm\Desktop\Prosits\A2\Bloc POO\Projet POO\code2\ProjectPOO\ProjectPOO\x64\Debug\ProjectPOO.Stock_forms.resources
+C:\Users\loicm\Desktop\Prosits\A2\Bloc POO\Projet POO\code2\ProjectPOO\ProjectPOO\x64\Debug\ProjectPOO.vcxproj.GenerateResource.cache
+C:\Users\loicm\Desktop\Prosits\A2\Bloc POO\Projet POO\code2\ProjectPOO\ProjectPOO\x64\Debug\ProjectPOO.exe
+C:\Users\loicm\Desktop\Prosits\A2\Bloc POO\Projet POO\code2\ProjectPOO\ProjectPOO\x64\Debug\ProjectPOO.pdb

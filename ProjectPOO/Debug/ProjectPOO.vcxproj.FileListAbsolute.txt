@@ -1,0 +1,3 @@
+C:\Users\loicm\source\repos\ProjectPOO\ProjectPOO\Debug\ProjectPOO.vcxprojAssemblyReference.cache
+C:\Users\loicm\source\repos\ProjectPOO\ProjectPOO\Debug\ProjectPOO.MyForm.resources
+C:\Users\loicm\source\repos\ProjectPOO\ProjectPOO\Debug\ProjectPOO.vcxproj.GenerateResource.cache

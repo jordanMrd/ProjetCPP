@@ -1,0 +1,41 @@
+﻿  Adresse_Tableau.cpp
+  BDD_CAD.cpp
+  Client_Tableau.cpp
+  Commande_Gestion.cpp
+  Commande_Tableau.cpp
+  Panier.cpp
+  Personnel_form.cpp
+  Personnel_Tableau.cpp
+  Client_Gestion.cpp
+  Personnel_Gestion.cpp
+  MyForm.cpp
+C:\Users\loicm\Desktop\ProjectPOO\ProjectPOO\Forms2.h(230,1): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+C:\Users\loicm\Desktop\ProjectPOO\ProjectPOO\Forms2.h(235,1): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+C:\Users\loicm\Desktop\ProjectPOO\ProjectPOO\Forms2.h(236,1): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+  Forms2.cpp
+C:\Users\loicm\Desktop\ProjectPOO\ProjectPOO\Forms2.h(230,1): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+C:\Users\loicm\Desktop\ProjectPOO\ProjectPOO\Forms2.h(235,1): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+C:\Users\loicm\Desktop\ProjectPOO\ProjectPOO\Forms2.h(236,1): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+  Personne_Tableau.cpp
+  Stock_forms.cpp
+  Stock_Gestion.cpp
+  Stock_Tableau.cpp
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  Génération de code en cours...
+  Adresse_Tableau.obj : module MSIL détecté ; liens incrémentiels désactivés pour MSIL ; édition de liens complète en cours
+MyForm.obj : error LNK2005: "public: __clrcall NS_Composants::Personnel_Tableau::Personnel_Tableau(void)" (??0Personnel_Tableau@NS_Composants@@$$FQE$AAM@XZ) déjà défini(e) dans Personnel_Tableau.obj
+MyForm.obj : error LNK2005: "public: class System::String ^ __clrcall NS_Composants::Personnel_Tableau::SELECT(void)" (?SELECT@Personnel_Tableau@NS_Composants@@$$FQE$AAMPE$AAVString@System@@XZ) déjà défini(e) dans Personnel_Tableau.obj
+MyForm.obj : error LNK2005: "public: void __clrcall NS_Composants::Personnel_Tableau::setID_personnel(int)" (?setID_personnel@Personnel_Tableau@NS_Composants@@$$FQE$AAMXH@Z) déjà défini(e) dans Personnel_Tableau.obj
+MyForm.obj : error LNK2005: "public: void __clrcall NS_Composants::Personnel_Tableau::setPrenom_personnel(class System::String ^)" (?setPrenom_personnel@Personnel_Tableau@NS_Composants@@$$FQE$AAMXPE$AAVString@System@@@Z) déjà défini(e) dans Personnel_Tableau.obj
+MyForm.obj : error LNK2005: "public: void __clrcall NS_Composants::Personnel_Tableau::setNom_personnel(class System::String ^)" (?setNom_personnel@Personnel_Tableau@NS_Composants@@$$FQE$AAMXPE$AAVString@System@@@Z) déjà défini(e) dans Personnel_Tableau.obj
+MyForm.obj : error LNK2005: "public: void __clrcall NS_Composants::Personnel_Tableau::setDateEmbauche(class System::String ^)" (?setDateEmbauche@Personnel_Tableau@NS_Composants@@$$FQE$AAMXPE$AAVString@System@@@Z) déjà défini(e) dans Personnel_Tableau.obj
+MyForm.obj : error LNK2005: "public: void __clrcall NS_Composants::Personnel_Tableau::setID_superieur(int)" (?setID_superieur@Personnel_Tableau@NS_Composants@@$$FQE$AAMXH@Z) déjà défini(e) dans Personnel_Tableau.obj
+MyForm.obj : error LNK2005: "public: int __clrcall NS_Composants::Personnel_Tableau::getID_personnel(void)" (?getID_personnel@Personnel_Tableau@NS_Composants@@$$FQE$AAMHXZ) déjà défini(e) dans Personnel_Tableau.obj
+MyForm.obj : error LNK2005: "public: class System::String ^ __clrcall NS_Composants::Personnel_Tableau::getNom_personnel(void)" (?getNom_personnel@Personnel_Tableau@NS_Composants@@$$FQE$AAMPE$AAVString@System@@XZ) déjà défini(e) dans Personnel_Tableau.obj
+MyForm.obj : error LNK2005: "public: class System::String ^ __clrcall NS_Composants::Personnel_Tableau::getPrenom_personnel(void)" (?getPrenom_personnel@Personnel_Tableau@NS_Composants@@$$FQE$AAMPE$AAVString@System@@XZ) déjà défini(e) dans Personnel_Tableau.obj
+MyForm.obj : error LNK2005: "public: class System::String ^ __clrcall NS_Composants::Personnel_Tableau::getDateEmbauche(void)" (?getDateEmbauche@Personnel_Tableau@NS_Composants@@$$FQE$AAMPE$AAVString@System@@XZ) déjà défini(e) dans Personnel_Tableau.obj
+MyForm.obj : error LNK2005: "public: int __clrcall NS_Composants::Personnel_Tableau::getID_superieur(void)" (?getID_superieur@Personnel_Tableau@NS_Composants@@$$FQE$AAMHXZ) déjà défini(e) dans Personnel_Tableau.obj
+MyForm.obj : error LNK2005: "public: class System::String ^ __clrcall NS_Composants::Personnel_Tableau::INSERT(void)" (?INSERT@Personnel_Tableau@NS_Composants@@$$FQE$AAMPE$AAVString@System@@XZ) déjà défini(e) dans Personnel_Tableau.obj
+MyForm.obj : error LNK2005: "public: class System::String ^ __clrcall NS_Composants::Personnel_Tableau::UPDATE(void)" (?UPDATE@Personnel_Tableau@NS_Composants@@$$FQE$AAMPE$AAVString@System@@XZ) déjà défini(e) dans Personnel_Tableau.obj
+MyForm.obj : error LNK2005: "public: class System::String ^ __clrcall NS_Composants::Personnel_Tableau::DELETE(void)" (?DELETE@Personnel_Tableau@NS_Composants@@$$FQE$AAMPE$AAVString@System@@XZ) déjà défini(e) dans Personnel_Tableau.obj
+LINK : fatal error LNK1561: le point d'entrée doit être défini
